@@ -1,11 +1,11 @@
 html {
     height: 100%;
-    background: linear-gradient(0deg, white, pink 40%, rgb(178, 46, 178));
+    background: linear-gradient(45deg, #84ffc9, #aab2ff, #eca0ff );
 }
 
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  }
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
   .wrapper {
     text-align: center;
     margin: 100px auto 0 auto;
